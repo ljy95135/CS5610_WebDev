@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+#links {
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+
+#contents {
+    border-left: 1px solid black;
+    width: 66%;
+    float: right;
+}
+
+p {
+    margin: 0 1em 1em;
+}
+
+.bottles {
+    display: none;
+}
+
+.last {
+    display: none;
+}
